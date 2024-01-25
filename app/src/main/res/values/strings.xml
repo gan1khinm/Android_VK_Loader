@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">VK Loader</string>
+    <string name="gallery_title">My albums</string>
+    <string name="logout_btn">Logout</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="app_title" translatable="false">VK Gallery Loader</string>
+    <string name="login_with_vk_btn">Login with VK</string>
+    <string name="album_cover">Album cover</string>
+    <string name="system_tag">System</string>
+
+
+
+
+
+    <string name="uploaded_photo">Uploaded %1$d photo</string>
+    <string name="auth_failed">Authentication failed</string>
+    <integer name="com_vk_sdk_AppId">51831071</integer>
+</resources>
